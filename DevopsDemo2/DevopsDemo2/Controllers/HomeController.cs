@@ -20,6 +20,8 @@ namespace DevopsDemo2.Controllers
 
         public IActionResult Index()
         {
+            int a;
+            a = null;
             return View();
         }
 
