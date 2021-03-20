@@ -25,8 +25,8 @@ namespace DevopsDemo2.Controllers
 
         public IActionResult Privacy()
         {
-            int a;
-            a = null;
+            //int a;
+            //a = null;
             return View();
         }
 
